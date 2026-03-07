@@ -3,7 +3,7 @@
         "Author": "Kay",
         "Name": "Kay Dps",
         "InternalName": "KayDps",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.1.0",
         "Description": "Affiche un overlay de performance en temps réel pendant les combats. Se connecte à IINACT via WebSocket pour parser les données. Commande: /kdps",
         "ApplicableVersion": "any",
         "Tags": [
@@ -21,14 +21,14 @@
         "ImageUrls": [
             "https://raw.githubusercontent.com/KayrozDbs/KayDpsMeter/main/images/icon.png?v=2"
         ],
-        "DownloadLinkInstall": "https://github.com/KayrozDbs/KayDpsMeter/releases/download/1.0.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/KayrozDbs/KayDpsMeter/releases/download/1.0.0/latest.zip"
+        "DownloadLinkInstall": "https://github.com/KayrozDbs/KayDpsMeter/releases/download/1.0.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/KayrozDbs/KayDpsMeter/releases/download/1.0.1/latest.zip"
     },
     {
         "Author": "Kay",
         "Name": "KayArsenal",
         "InternalName": "KayArsenal",
-        "AssemblyVersion": "1.0.1.0",
+        "AssemblyVersion": "1.0.2.0",
         "Punchline": "Désynthétisez rapidement vos équipements non équipés.",
         "IsHide": false,
         "Description": "Un plugin permettant de désynthétiser tous les équipements de votre inventaire et arsenal qui ne sont pas enregistrés dans un set d'équipement, en un seul clic.",
@@ -45,7 +45,7 @@
         "ImageUrls": [
             "https://raw.githubusercontent.com/KayrozDbs/KayArsenal/main/images/icon.png?v=2"
         ],
-        "DownloadLinkInstall": "https://github.com/KayrozDbs/KayArsenal/releases/download/1.0.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/KayrozDbs/KayArsenal/releases/download/1.0.1/latest.zip"
+        "DownloadLinkInstall": "https://github.com/KayrozDbs/KayArsenal/releases/download/1.0.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/KayrozDbs/KayArsenal/releases/download/1.0.2/latest.zip"
     }
 ]
