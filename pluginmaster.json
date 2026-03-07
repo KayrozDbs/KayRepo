@@ -17,9 +17,9 @@
         "Punchline": "Overlay de performance (DPS/HPS) connecté à IINACT.",
         "IsHide": false,
         "RepoUrl": "https://github.com/KayrozDbs/KayDpsMeter",
-        "IconUrl": "https://raw.githubusercontent.com/KayrozDbs/KayDpsMeter/main/kaydps.png?v=1",
+        "IconUrl": "https://raw.githubusercontent.com/KayrozDbs/KayDpsMeter/main/images/icon.png?v=2",
         "ImageUrls": [
-            "https://raw.githubusercontent.com/KayrozDbs/KayDpsMeter/main/kaydps.png?v=1"
+            "https://raw.githubusercontent.com/KayrozDbs/KayDpsMeter/main/images/icon.png?v=2"
         ],
         "DownloadLinkInstall": "https://github.com/KayrozDbs/KayDpsMeter/releases/download/1.0.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KayrozDbs/KayDpsMeter/releases/download/1.0.0/latest.zip"
@@ -41,9 +41,9 @@
         ],
         "DalamudApiLevel": 14,
         "RepoUrl": "https://github.com/KayrozDbs/KayArsenal",
-        "IconUrl": "https://raw.githubusercontent.com/KayrozDbs/KayArsenal/main/kayautorecycle.png?v=1",
+        "IconUrl": "https://raw.githubusercontent.com/KayrozDbs/KayArsenal/main/images/icon.png?v=2",
         "ImageUrls": [
-            "https://raw.githubusercontent.com/KayrozDbs/KayArsenal/main/kayautorecycle.png?v=1"
+            "https://raw.githubusercontent.com/KayrozDbs/KayArsenal/main/images/icon.png?v=2"
         ],
         "DownloadLinkInstall": "https://github.com/KayrozDbs/KayArsenal/releases/download/1.0.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KayrozDbs/KayArsenal/releases/download/1.0.1/latest.zip"
