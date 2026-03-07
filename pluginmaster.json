@@ -16,6 +16,7 @@
         "DalamudApiLevel": 14,
         "Punchline": "Overlay de performance (DPS/HPS) connecté à IINACT.",
         "RepoUrl": "https://github.com/KayrozDbs/KayDpsMeter",
+        "IconUrl": "https://raw.githubusercontent.com/KayrozDbs/KayDpsMeter/main/kaydps.png",
         "ImageUrls": [
             "https://raw.githubusercontent.com/KayrozDbs/KayDpsMeter/main/kaydps.png"
         ],
@@ -37,6 +38,7 @@
         ],
         "DalamudApiLevel": 14,
         "RepoUrl": "https://github.com/KayrozDbs/KayArsenal",
+        "IconUrl": "https://raw.githubusercontent.com/KayrozDbs/KayArsenal/main/kayautorecycle.png",
         "ImageUrls": [
             "https://raw.githubusercontent.com/KayrozDbs/KayArsenal/main/kayautorecycle.png"
         ],
