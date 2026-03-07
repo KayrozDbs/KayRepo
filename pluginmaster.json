@@ -15,12 +15,14 @@
         ],
         "DalamudApiLevel": 14,
         "Punchline": "Overlay de performance (DPS/HPS) connecté à IINACT.",
+        "IsHide": false,
         "RepoUrl": "https://github.com/KayrozDbs/KayDpsMeter",
-        "IconUrl": "https://raw.githubusercontent.com/KayrozDbs/KayDpsMeter/main/kaydps.png",
+        "IconUrl": "https://raw.githubusercontent.com/KayrozDbs/KayDpsMeter/main/kaydps.png?v=1",
         "ImageUrls": [
-            "https://raw.githubusercontent.com/KayrozDbs/KayDpsMeter/main/kaydps.png"
+            "https://raw.githubusercontent.com/KayrozDbs/KayDpsMeter/main/kaydps.png?v=1"
         ],
-        "DownloadLinkInstall": "https://github.com/KayrozDbs/KayDpsMeter/releases/download/1.0.0/latest.zip"
+        "DownloadLinkInstall": "https://github.com/KayrozDbs/KayDpsMeter/releases/download/1.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/KayrozDbs/KayDpsMeter/releases/download/1.0.0/latest.zip"
     },
     {
         "Author": "Kay",
@@ -28,6 +30,7 @@
         "InternalName": "KayArsenal",
         "AssemblyVersion": "1.0.1.0",
         "Punchline": "Désynthétisez rapidement vos équipements non équipés.",
+        "IsHide": false,
         "Description": "Un plugin permettant de désynthétiser tous les équipements de votre inventaire et arsenal qui ne sont pas enregistrés dans un set d'équipement, en un seul clic.",
         "ApplicableVersion": "any",
         "Tags": [
@@ -38,10 +41,11 @@
         ],
         "DalamudApiLevel": 14,
         "RepoUrl": "https://github.com/KayrozDbs/KayArsenal",
-        "IconUrl": "https://raw.githubusercontent.com/KayrozDbs/KayArsenal/main/kayautorecycle.png",
+        "IconUrl": "https://raw.githubusercontent.com/KayrozDbs/KayArsenal/main/kayautorecycle.png?v=1",
         "ImageUrls": [
-            "https://raw.githubusercontent.com/KayrozDbs/KayArsenal/main/kayautorecycle.png"
+            "https://raw.githubusercontent.com/KayrozDbs/KayArsenal/main/kayautorecycle.png?v=1"
         ],
-        "DownloadLinkInstall": "https://github.com/KayrozDbs/KayArsenal/releases/download/1.0.1/latest.zip"
+        "DownloadLinkInstall": "https://github.com/KayrozDbs/KayArsenal/releases/download/1.0.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/KayrozDbs/KayArsenal/releases/download/1.0.1/latest.zip"
     }
 ]
