@@ -22,7 +22,7 @@
         "Author": "Kay",
         "Name": "KayArsenal",
         "InternalName": "KayArsenal",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.1.0",
         "Punchline": "Désynthétisez rapidement vos équipements non équipés.",
         "Description": "Un plugin permettant de désynthétiser tous les équipements de votre inventaire et arsenal qui ne sont pas enregistrés dans un set d'équipement, en un seul clic.",
         "ApplicableVersion": "any",
@@ -34,6 +34,6 @@
         ],
         "DalamudApiLevel": 14,
         "RepoUrl": "https://github.com/KayrozDbs/KayArsenal",
-        "DownloadLinkInstall": "https://github.com/KayrozDbs/KayArsenal/releases/download/v1.0.0/KayArsenal.dll"
+        "DownloadLinkInstall": "https://github.com/KayrozDbs/KayArsenal/releases/download/v1.0.1/KayArsenal.dll"
     }
 ]
