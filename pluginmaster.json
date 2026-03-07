@@ -1,0 +1,39 @@
+[
+    {
+        "Author": "Kay",
+        "Name": "Kay Dps",
+        "InternalName": "KayDps",
+        "AssemblyVersion": "1.0.0.0",
+        "Description": "Affiche un overlay de performance en temps réel pendant les combats. Se connecte à IINACT via WebSocket pour parser les données. Commande: /kdps",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "combat",
+            "dps",
+            "meter",
+            "overlay",
+            "iinact"
+        ],
+        "DalamudApiLevel": 14,
+        "Punchline": "Overlay de performance (DPS/HPS) connecté à IINACT.",
+        "RepoUrl": "https://github.com/KayrozDbs/KayDpsMeter",
+        "DownloadLinkInstall": "https://github.com/KayrozDbs/KayDpsMeter/releases/download/v1.0.0/KayDps.dll"
+    },
+    {
+        "Author": "Kay",
+        "Name": "KayArsenal",
+        "InternalName": "KayArsenal",
+        "AssemblyVersion": "1.0.0.0",
+        "Punchline": "Désynthétisez rapidement vos équipements non équipés.",
+        "Description": "Un plugin permettant de désynthétiser tous les équipements de votre inventaire et arsenal qui ne sont pas enregistrés dans un set d'équipement, en un seul clic.",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "inventory",
+            "desynth",
+            "utility",
+            "automation"
+        ],
+        "DalamudApiLevel": 14,
+        "RepoUrl": "https://github.com/KayrozDbs/KayArsenal",
+        "DownloadLinkInstall": "https://github.com/KayrozDbs/KayArsenal/releases/download/v1.0.0/KayArsenal.dll"
+    }
+]
