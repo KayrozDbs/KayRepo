@@ -47,5 +47,29 @@
         ],
         "DownloadLinkInstall": "https://github.com/KayrozDbs/KayArsenal/releases/download/1.0.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KayrozDbs/KayArsenal/releases/download/1.0.2/latest.zip"
+    },
+    {
+        "Author": "Kay",
+        "Name": "KaySquadron",
+        "InternalName": "KaySquadron",
+        "AssemblyVersion": "1.0.0.0",
+        "Punchline": "Faites de vos recrues une unité d'élite.",
+        "IsHide": false,
+        "Description": "Optimiseur d'escouade de Grande Compagnie (GC). Calculateur d'attributs, de chances de réussite et recommandations d'entraînement de la caserne.",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "squadron",
+            "optimization",
+            "utility",
+            "automation"
+        ],
+        "DalamudApiLevel": 14,
+        "RepoUrl": "https://github.com/KayrozDbs/KaySquadron",
+        "IconUrl": "https://raw.githubusercontent.com/KayrozDbs/KaySquadron/main/KaySquadron/images/icon.png?v=1",
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/KayrozDbs/KaySquadron/main/KaySquadron/images/icon.png?v=1"
+        ],
+        "DownloadLinkInstall": "https://github.com/KayrozDbs/KaySquadron/releases/download/1.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/KayrozDbs/KaySquadron/releases/download/1.0.0/latest.zip"
     }
 ]
