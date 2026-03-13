@@ -52,7 +52,7 @@
         "Author": "Kay",
         "Name": "KaySquadron",
         "InternalName": "KaySquadron",
-        "AssemblyVersion": "1.0.2.0",
+        "AssemblyVersion": "1.0.3.0",
         "Punchline": "Faites de vos recrues une unité d'élite.",
         "IsHide": false,
         "Description": "Grand Company (GC) Squadron Optimizer. Calculates attributes, success chances, and training recommendations for your barracks.",
@@ -69,8 +69,8 @@
         "ImageUrls": [
             "https://raw.githubusercontent.com/KayrozDbs/KaySquadron/main/KaySquadron/images/icon.png?v=1"
         ],
-        "DownloadLinkInstall": "https://github.com/KayrozDbs/KaySquadron/releases/download/1.0.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/KayrozDbs/KaySquadron/releases/download/1.0.1/latest.zip"
+        "DownloadLinkInstall": "https://github.com/KayrozDbs/KaySquadron/releases/download/1.0.3/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/KayrozDbs/KaySquadron/releases/download/1.0.3/latest.zip"
     },
     {
         "Author": "Kay",
