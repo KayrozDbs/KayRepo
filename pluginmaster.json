@@ -69,8 +69,8 @@
         "ImageUrls": [
             "https://raw.githubusercontent.com/KayrozDbs/KaySquadron/main/KaySquadron/images/icon.png?v=1"
         ],
-        "DownloadLinkInstall": "https://github.com/KayrozDbs/KaySquadron/releases/download/1.0.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/KayrozDbs/KaySquadron/releases/download/1.0.0/latest.zip"
+        "DownloadLinkInstall": "https://github.com/KayrozDbs/KaySquadron/releases/download/1.0.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/KayrozDbs/KaySquadron/releases/download/1.0.1/latest.zip"
     },
     {
         "Author": "Kay",
