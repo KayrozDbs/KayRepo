@@ -52,10 +52,10 @@
         "Author": "Kay",
         "Name": "KaySquadron",
         "InternalName": "KaySquadron",
-        "AssemblyVersion": "1.0.1.0",
+        "AssemblyVersion": "1.0.2.0",
         "Punchline": "Faites de vos recrues une unité d'élite.",
         "IsHide": false,
-        "Description": "Optimiseur d'escouade de Grande Compagnie (GC). Calculateur d'attributs, de chances de réussite et recommandations d'entraînement de la caserne.",
+        "Description": "Grand Company (GC) Squadron Optimizer. Calculates attributes, success chances, and training recommendations for your barracks.",
         "ApplicableVersion": "any",
         "Tags": [
             "squadron",
