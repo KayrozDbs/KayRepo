@@ -94,5 +94,28 @@
         ],
         "DownloadLinkInstall": "https://github.com/KayrozDbs/KayDeath/releases/download/1.0.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KayrozDbs/KayDeath/releases/download/1.0.0/latest.zip"
+    },
+    {
+        "Author": "Kay",
+        "Name": "KayUX",
+        "InternalName": "KayUX",
+        "AssemblyVersion": "1.0.0.0",
+        "Description": "Total FFXIV UI Overhaul - Premium unit frames, party lists, and quest tracking.",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 14,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "SupportsConfig": true,
+        "RepoUrl": "https://github.com/KayrozDbs/KayUX",
+        "Tags": [
+            "ui",
+            "overhaul",
+            "premium"
+        ],
+        "AcceptsFeedback": true,
+        "Punchline": "The ultimate UI experience.",
+        "DownloadLinkInstall": "https://github.com/KayrozDbs/KayUX/releases/latest/download/KayUX.zip",
+        "LastUpdate": "1773568009"
     }
 ]
